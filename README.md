@@ -41,7 +41,7 @@ This course is available for multiple cloud providers. Choose your preferred pla
 ***
 </details>
 <details>
-<summary>Set the source to https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-ibmcloud</summary>
+<summary>Set the source to https://github.com/Oxford-Research-Cloud-Competency-Centre/Hello-ibm-cloud</summary>
 
 <img width="572" height="922" alt="img3" src="https://github.com/user-attachments/assets/8c83a88f-f7ea-41c1-b8ee-43fe9f1ea5f4" />
 
